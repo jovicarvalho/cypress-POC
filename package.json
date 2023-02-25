@@ -1,0 +1,14 @@
+{
+  "name": "prova-de-conceito",
+  "version": "1.0.0",
+  "description": "Prova de Conceito Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "João Vitor Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.6.0"
+  }
+}
